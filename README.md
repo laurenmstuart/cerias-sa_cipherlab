@@ -22,7 +22,6 @@ This lab was created for CERIAS-SA (CERIAS Student Association) members with an 
  
  NOT included: 
  - The virtual machine referred to in the slides and event page. 
- - Solution files. 
 
 ## Python version: 3.5.2
  
